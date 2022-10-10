@@ -1,0 +1,940 @@
+@media(min-width:1200px) and (max-width:1399px) {
+    /* =============Navber part start=============== */
+    .navbar {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    /* =============Navber part end=============== */
+    /* =============banner part start=============== */
+    #banner {
+        padding-top: 350px;
+        padding-bottom: 350px;
+    }
+
+    /* =============banner part end=============== */
+    /* =============project part start=============== */
+    #project .item {
+        width: 348px;
+    }
+    /* =============project part end=============== */
+    /* =============video part start=============== */
+    #video {
+        padding-top: 170px;
+        padding-bottom: 210px;
+    }
+
+    /* =============video part end=============== */
+    /* =============counter part start=============== */
+    .counter_item {
+        width: 223px;
+    }
+
+    /* =============counter part end=============== */
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+
+    /* =======================================
+                 Navber part start
+    ========================================*/
+    .navbar {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    /* =======================================
+                 Navber part end
+    ========================================*/
+    /* =======================================
+                 banner part end
+    ========================================*/
+    #banner {
+        padding-top: 230px;
+        padding-bottom: 200px;
+    }
+
+    /* =======================================
+                 banner part end
+    ========================================*/
+    /* =======================================
+                 idea part start
+    ========================================*/
+    .idea_btom button {
+        padding: 15px 36px 12px;
+        font-size: 14px;
+    }
+
+    /* =======================================
+                 idea part end
+    ========================================*/
+    /* =======================================
+                 degign part start
+    ========================================*/
+    .project_text h4 {
+        font-size: 19px;
+    }
+    #project .item {
+        width: 288px;
+    }
+    /* =======================================
+                 degign part end
+    ========================================*/
+    /* =======================================
+                 video part start
+    ========================================*/
+    #video {
+        padding-top: 100px;
+        padding-bottom: 110px;
+    }
+
+    /* =======================================
+                 video part end
+    ========================================*/
+    /* =======================================
+                 counter part start
+    ========================================*/
+    .counter_item {
+        width: 187px;
+    }
+
+    /* =======================================
+                 counter part end
+    ========================================*/
+    /* =======================================
+                 blog part start
+    ========================================*/
+    .blog_text h4 {
+        font-size: 17px;
+    }
+
+    /* =======================================
+                 blog part end
+    ========================================*/
+    /* =======================================
+                 design part start
+    ========================================*/
+    #design {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .design_img img {
+        transform: scale(.9);
+        -webkit-transform: scale(.9);
+        -moz-transform: scale(.9);
+        -ms-transform: scale(.9);
+        -o-transform: scale(.9);
+    }
+
+    /* =======================================
+                 design part end
+    ========================================*/
+}
+
+@media(min-width:768px) and (max-width:991px) {
+
+    /* ============================================
+                     Navber part start
+    =============================================*/
+    .navbar {
+        position: static;
+        background-color: #313131;
+    }
+
+    .navbar-brand img {
+        transform: scale(.8);
+    }
+
+    .navbar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    /* ============================================
+                     Navber part end
+    =============================================*/
+    /* ============================================
+                     banner part start
+    =============================================*/
+    #banner {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+
+    .banner_text h4 {
+        font-size: 25px;
+    }
+
+    .banner_text h1 {
+        font-size: 40px;
+    }
+
+    .banner_text p {
+        margin-bottom: 25px;
+    }
+
+    .btn-brand {
+        padding: 12px 25px 9px;
+        font-size: 13px;
+    }
+
+    /* ============================================
+                     banner part end
+    =============================================*/
+    /* ============================================
+                     service part start
+    =============================================*/
+    #service {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .service_item {
+        text-align: center !important;
+        margin-bottom: 50px;
+    }
+
+    /* ============================================
+                     service part end
+    =============================================*/
+    /* ============================================
+                     idea part start
+    =============================================*/
+    .idea_btom h4 {
+        font-size: 26px;
+    }
+
+    .idea_btom button {
+        padding: 12px 21px 9px;
+        font-size: 14px;
+    }
+
+    /* ============================================
+                     idea part end
+    =============================================*/
+    /* ============================================
+                     project part end
+    =============================================*/
+    .project_bton button {
+        padding: 12px 25px 9px;
+        font-size: 13px;
+    }
+
+    #project .item {
+        width: 312px;
+    }
+
+    #project .item:nth-child(3),
+    #project .item:nth-child(6) {
+        margin-right: 24px;
+    }
+
+    /* ============================================
+                     project part end
+    =============================================*/
+    /* ============================================
+                     video part end
+    =============================================*/
+    #video {
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+
+    /* ============================================
+                     video part end
+    =============================================*/
+    /* ============================================
+                     iphone part end
+    =============================================*/
+    .text_video h4 {
+        font-size: 29px;
+        margin-bottom: 10px;
+    }
+
+    .text_video p {
+        font-size: 14px;
+        line-height: 26px;
+        margin-bottom: 10px;
+    }
+
+    .text_video ul li {
+        font-size: 14px;
+        line-height: 24px;
+        margin-bottom: 3px;
+    }
+
+    /* ============================================
+                     iphone part end
+    =============================================*/
+    /* ============================================
+                     counter part end
+    =============================================*/
+    .counter_item {
+        margin-bottom: 50px;
+    }
+
+    /* ============================================
+                     counter part end
+    =============================================*/
+    /* ============================================
+                     blog part end
+    =============================================*/
+    .blog_item {
+        margin-bottom: 24px;
+    }
+
+    /* ============================================
+                     blog part end
+    =============================================*/
+    /* ============================================
+                     degin part end
+    =============================================*/
+    #design {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+
+    .design_img {
+        margin-bottom: 24px;
+        text-align: center;
+    }
+
+    .design_img img {
+        transform: scale(.8);
+        -webkit-transform: scale(.8);
+        -moz-transform: scale(.8);
+        -ms-transform: scale(.8);
+        -o-transform: scale(.8);
+    }
+
+    /* ============================================
+                     degin part end
+    =============================================*/
+    /* ============================================
+                     footer part start
+    =============================================*/
+    #footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .foot_logo img {
+        transform: scale(.8);
+        -webkit-transform: scale(.8);
+        -moz-transform: scale(.8);
+        -ms-transform: scale(.8);
+        -o-transform: scale(.8);
+    }
+
+    .footer_item {
+        margin-bottom: 24px;
+    }
+
+    .foot_hadding {
+        margin-bottom: 15px;
+    }
+
+    /* ============================================
+                     footer part end
+    =============================================*/
+    /* ============================================
+                     coppy part start
+    =============================================*/
+    .coppy_text ul li {
+        margin-bottom: 50px;
+    }
+
+    /* ============================================
+                     coppy part end
+    =============================================*/
+
+}
+
+@media(min-width:576px) and (max-width:767px) {
+
+    /* ============================================
+                     Navber part start
+    =============================================*/
+
+    .navbar {
+        position: static;
+        background-color: #313131;
+    }
+
+    .navbar-brand img {
+        transform: scale(.8);
+    }
+
+    .navbar {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    /* ============================================
+                     Navber part end
+    =============================================*/
+    /* ============================================
+                     banner part start
+    =============================================*/
+    #banner {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .banner_text h4 {
+        font-size: 25px;
+    }
+
+    .banner_text h1 {
+        font-size: 40px;
+    }
+
+    .banner_text p {
+        margin-bottom: 25px;
+    }
+
+    .btn-brand {
+        padding: 10px 20px 7px;
+    }
+
+    /* ============================================
+                     banner part end
+    =============================================*/
+    /* ============================================
+                     service part start
+    =============================================*/
+    #service {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .service_item {
+        text-align: center !important;
+        margin-bottom: 50px;
+    }
+
+    /* ============================================
+                     service part end
+    =============================================*/
+    /* ============================================
+                     idea part start
+    =============================================*/
+    .head h3 {
+        font-size: 28px;
+    }
+
+    .idea_btom h4 {
+        font-size: 25px;
+        line-height: 120%;
+    }
+
+    .idea_btom button {
+        padding: 5px 10px 5px;
+    }
+    .idea_btom button {
+        font-size: 12px;
+    }
+    .idea_btom h4 {
+        font-size: 11px;
+    }
+    .idea_btom p {
+        display: none;
+    }
+    .idea_btom {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    /* ============================================
+                     idea part end
+    =============================================*/
+    /* ============================================
+                     project part start
+    =============================================*/
+    #project {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .project_btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    button {
+        margin-bottom: 10px;
+    }
+
+    .project_bton button {
+        padding: 10px 20px 7px;
+    }
+
+    .project_text h4 {
+        line-height: 120%;
+    }
+
+    .item {
+        margin-bottom: 24px !important;
+    }
+
+    #project .item:nth-child(1),
+    #project .item:nth-child(2), 
+    #project .item:nth-child(4),
+    #project .item:nth-child(5) {
+        margin-right: 0;
+    }
+    #project .item {
+        width: 492px;
+    }
+    /* ============================================
+                     project part end
+    =============================================*/
+    /* ============================================
+                     video part start
+    =============================================*/
+    #video {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+
+    .video_text img {
+        transform: scale(.7);
+        -webkit-transform: scale(.7);
+        -moz-transform: scale(.7);
+        -ms-transform: scale(.7);
+        -o-transform: scale(.7);
+    }
+
+    .video_text h4 {
+        font-size: 25px;
+        margin-bottom: 15px;
+        margin-top: 10px;
+        line-height: 120%;
+    }
+
+    /* ============================================
+                     video part end
+    =============================================*/
+    /* ============================================
+                     iphone part start
+    =============================================*/
+    #iphone {
+        margin-top: 50px;
+    }
+
+    .text_video h4 {
+        font-size: 25px;
+        margin-bottom: 20px;
+        margin-top: 30px;
+        line-height: 120%;
+    }
+
+    .text_video ul li {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+
+    /* ============================================
+                     iphone part end
+    =============================================*/
+    /* ============================================
+                     counter part start
+    =============================================*/
+    .counter_item {
+        margin-bottom: 50px;
+    }
+
+    .counter_item h3 {
+        font-size: 30px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+
+    .counter_item p {
+        margin-bottom: 15px;
+    }
+
+    .counter_item img {
+        transform: scale(.8);
+        -webkit-transform: scale(.8);
+        -moz-transform: scale(.8);
+        -ms-transform: scale(.8);
+        -o-transform: scale(.8);
+    }
+
+    /* ============================================
+                     counter part end
+    =============================================*/
+    /* ============================================
+                     post part start
+    =============================================*/
+    .blog_text h4 {
+        margin-bottom: 15px;
+        line-height: 120%;
+    }
+
+    .blog_item {
+        margin-bottom: 24px;
+    }
+
+    /* ============================================
+                     post part end
+    =============================================*/
+    /* ============================================
+                     design part end
+    =============================================*/
+    #design {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .design_img {
+        margin-bottom: 24px;
+        text-align: center;
+    }
+
+    .design_img img {
+        transform: scale(.8);
+        -webkit-transform: scale(.8);
+        -moz-transform: scale(.8);
+        -ms-transform: scale(.8);
+        -o-transform: scale(.8);
+    }
+
+    /* ============================================
+                     design part end
+    =============================================*/
+    /* ============================================
+                     footer part start
+    =============================================*/
+    #footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .foot_logo img {
+        transform: scale(.8);
+        -webkit-transform: scale(.8);
+        -moz-transform: scale(.8);
+        -ms-transform: scale(.8);
+        -o-transform: scale(.8);
+    }
+
+    .footer_item {
+        margin-bottom: 24px;
+    }
+
+    .foot_hadding {
+        margin-bottom: 15px;
+    }
+
+    /* ============================================
+                     footer part end
+    =============================================*/
+    /* ============================================
+                     coppy part start
+    =============================================*/
+    .coppy_text ul li {
+        margin-bottom: 50px;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+
+    /* ============================================
+                     coppy part end
+    =============================================*/
+}
+
+@media(max-width:575.99px) {
+
+    /* ============================================
+                     Navber part start
+    =============================================*/
+    .navbar {
+        position: static;
+        background-color: #313131;
+    }
+
+    .navbar-brand img {
+        transform: scale(.8);
+    }
+
+    .navbar {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    /* ============================================
+                     Navber part end
+    =============================================*/
+    /* ============================================
+                     banner part start
+    =============================================*/
+    #banner {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .banner_text h4 {
+        font-size: 20px;
+    }
+
+    .banner_text h1 {
+        font-size: 30px;
+        line-height: 120%;
+    }
+
+    .banner_text p {
+        margin-bottom: 25px;
+    }
+
+    .btn-brand {
+        padding: 10px 20px 7px;
+    }
+
+    /* ============================================
+                     banner part end
+    =============================================*/
+    /* ============================================
+                     service part start
+    =============================================*/
+    #service {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .service_item {
+        text-align: center !important;
+        margin-bottom: 50px;
+    }
+
+    /* ============================================
+                     service part end
+    =============================================*/
+    /* ============================================
+                     idea part start
+    =============================================*/
+    .head h3 {
+        font-size: 25px;
+    }
+
+    .idea_btom h4 {
+        font-size: 25px;
+        line-height: 120%;
+    }
+
+    .idea_btom button {
+        padding: 5px 10px 5px;
+    }
+    .idea_btom button {
+        font-size: 12px;
+    }
+    .idea_btom h4 {
+        font-size: 11px;
+    }
+    .idea_btom p {
+        display: none;
+    }
+    .idea_btom {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    /* ============================================
+                     idea part end
+    =============================================*/
+    /* ============================================
+                     project part start
+    =============================================*/
+    #project {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
+    .project_btn {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    button {
+        margin-bottom: 10px;
+    }
+
+    .project_bton button {
+        padding: 10px 20px 7px;
+    }
+
+    .project_text h4 {
+        line-height: 120%;
+    }
+
+    #project .item:first-child {
+        margin-right: 0;
+    }
+
+    #project .item:nth-child(4),
+    #project .item:nth-child(5),
+    #project .item:nth-child(2) {
+        margin-right: 0;
+        margin-bottom: 24px;
+    }
+
+    #project .item {
+        width: 525px;
+    }
+
+    /* ============================================
+                     project part end
+    =============================================*/
+    /* ============================================
+                     video part start
+    =============================================*/
+    #video {
+        padding-top: 20px;
+        padding-bottom: 30px;
+    }
+
+    .video_text img {
+        transform: scale(.7);
+        -webkit-transform: scale(.7);
+        -moz-transform: scale(.7);
+        -ms-transform: scale(.7);
+        -o-transform: scale(.7);
+    }
+
+    .video_text h4 {
+        font-size: 25px;
+        margin-bottom: 15px;
+        margin-top: 10px;
+        line-height: 120%;
+    }
+
+    /* ============================================
+                     video part end
+    =============================================*/
+    /* ============================================
+                     iphone part start
+    =============================================*/
+    #iphone {
+        margin-top: 50px;
+    }
+
+    .text_video h4 {
+        font-size: 25px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        line-height: 120%;
+    }
+
+    .text_video ul li {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 25px;
+    }
+
+    /* ============================================
+                     iphone part end
+    =============================================*/
+    /* ============================================
+                     counter part start
+    =============================================*/
+    .counter_item {
+        margin-bottom: 50px;
+    }
+
+    .counter_item h3 {
+        font-size: 27px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+
+    .counter_item p {
+        margin-bottom: 15px;
+    }
+
+    .counter_item img {
+        transform: scale(.7);
+        -webkit-transform: scale(.7);
+        -moz-transform: scale(.7);
+        -ms-transform: scale(.7);
+        -o-transform: scale(.7);
+    }
+
+    /* ============================================
+                     counter part end
+    =============================================*/
+    /* ============================================
+                     post part start
+    =============================================*/
+    .blog_text h4 {
+        margin-bottom: 15px;
+        line-height: 120%;
+    }
+
+    .blog_item {
+        margin-bottom: 24px;
+    }
+
+    /* ============================================
+                     post part end
+    =============================================*/
+    /* ============================================
+                     design part start
+    =============================================*/
+    #design {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .design_img {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .design_img img {
+        transform: scale(.7);
+        -webkit-transform: scale(.7);
+        -moz-transform: scale(.7);
+        -ms-transform: scale(.7);
+        -o-transform: scale(.7);
+    }
+
+    /* ============================================
+                     design part end
+    =============================================*/
+    /* ============================================
+                     footer part start
+    =============================================*/
+    #footer {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .foot_logo img {
+        transform: scale(.8);
+        -webkit-transform: scale(.8);
+        -moz-transform: scale(.8);
+        -ms-transform: scale(.8);
+        -o-transform: scale(.8);
+    }
+
+    .footer_item {
+        margin-bottom: 30px;
+    }
+
+    .foot_hadding {
+        margin-bottom: 15px;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+
+    /* ============================================
+                     footer part end
+    =============================================*/
+}
